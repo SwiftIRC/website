@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SwiftIRC</title>
+    <link>https://swiftirc.net/</link>
+    <description>Recent content on SwiftIRC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2019 23:48:59 -0600</lastBuildDate>
+    
+	<atom:link href="https://swiftirc.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upgraded Ircd and Services</title>
+      <link>https://swiftirc.net/post/upgraded-ircd-and-services/</link>
+      <pubDate>Mon, 25 Mar 2019 23:48:59 -0600</pubDate>
+      
+      <guid>https://swiftirc.net/post/upgraded-ircd-and-services/</guid>
+      <description>The upgrade has been completed! SwiftIRC is now running on Unreal 4.2.2 and Anope 2.0.6. Thank you for your patience while we worked through this upgrade. It was not easy and we could not have done it without the help of zomg, Shawn, and Adam.
+Many thanks, Dragon</description>
+    </item>
+    
+    <item>
+      <title>New Management</title>
+      <link>https://swiftirc.net/post/new-management/</link>
+      <pubDate>Tue, 09 Oct 2018 13:52:15 -0600</pubDate>
+      
+      <guid>https://swiftirc.net/post/new-management/</guid>
+      <description>SwiftIRC is now under new ownership and management. Dragon has taken over the network, effective immediately.
+The first priority of the new management is to mitigate the imapct the DDoS attacks have been having on us.
+Furthermore, we hope to grow the network, and upgrade it to newer software in the coming months. As some of you may know we have been running forks of unrealircd and anope from 2006 and we intend to change that.</description>
+    </item>
+    
+  </channel>
+</rss>
