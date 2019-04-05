@@ -6,10 +6,21 @@
     <description>Recent content on SwiftIRC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 23:48:59 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 14:52:30 -0600</lastBuildDate>
     
 	<atom:link href="https://swiftirc.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Info</title>
+      <link>https://swiftirc.net/info/</link>
+      <pubDate>Fri, 05 Apr 2019 14:52:30 -0600</pubDate>
+      
+      <guid>https://swiftirc.net/info/</guid>
+      <description>Network: irc.swiftirc.net
+Servers: * fiery.swiftirc.net in California, USA ** fiery.swiftirc.net has address 138.68.16.166 ** fiery.swiftirc.net has IPv6 address 2604:a880:2:d0::70:9001
+ tardis.swiftirc.net in London, UK tardis.swiftirc.net has address 178.62.117.173 tardis.swiftirc.net has IPv6 address 2a03:b0c0:1:d0::bbd:7001  Ports: * 6666-6669 * 7000 * 8080 * 6697 (SSL)</description>
+    </item>
     
     <item>
       <title>Upgraded Ircd and Services</title>

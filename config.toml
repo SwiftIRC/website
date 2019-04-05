@@ -3,3 +3,12 @@ languageCode = "en-us"
 title = "SwiftIRC"
 theme = "hugo-nuo"
 googleAnalytics = "UA-137040075-3"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = -110
