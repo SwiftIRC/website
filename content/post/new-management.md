@@ -7,7 +7,7 @@ draft: false
 SwiftIRC is now under new ownership and management. Dragon has taken
 over the network, effective immediately. 
 
-The first priority of the new management is to mitigate the imapct the
+The first priority of the new management is to mitigate the impact the
 DDoS attacks have been having on us.
 
 Furthermore, we hope to grow the network, and upgrade it to newer software in the
