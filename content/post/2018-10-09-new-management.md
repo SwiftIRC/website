@@ -5,7 +5,7 @@ draft: false
 ---
 
 SwiftIRC is now under new ownership and management. Dragon has taken
-over the network, effective immediately. 
+over the network, effective immediately.
 
 The first priority of the new management is to mitigate the impact the
 DDoS attacks have been having on us.
@@ -18,4 +18,5 @@ If you have any questions please do not hesitate to reach out to
 support@swiftirc.net.
 
 Regards,
+
 Dragon
