@@ -14,17 +14,17 @@ weight: 50
 
 _fiery.swiftirc.net_ in California, USA
 
-**fiery.swiftirc.net** resolves to address 143.198.146.114
+**fiery.swiftirc.net** resolves to address **143.198.146.114**
 
-**fiery.swiftirc.net** resolves to IPv6 address 2604:a880:4:1d0::75:0
+**fiery.swiftirc.net** resolves to IPv6 address **2604:a880:4:1d0::75:0**
 
 ---
 
 _tardis.swiftirc.net_ in London, UK
 
-**tardis.swiftirc.net** resolves to address 159.65.55.232
+**tardis.swiftirc.net** resolves to address **159.65.55.232**
 
-**tardis.swiftirc.net** resolves to IPv6 address 2a03:b0c0:1:d0::ec0:8001
+**tardis.swiftirc.net** resolves to IPv6 address **2a03:b0c0:1:d0::ec0:8001**
 
 ---
 
@@ -40,11 +40,11 @@ _Ports:_
 
 ## _Matrix:_
 
-- matrix.swiftirc.net
+- **matrix.swiftirc.net**
 
 Need a Matrix client? [element.swiftirc.net](https://element.swiftirc.net)
 
-Both matrix and element resolve to 134.122.126.234 / 2604:a880:400:d0::173b:2001
+Both **matrix** and **element** resolve to **134.122.126.234** / **2604:a880:400:d0::173b:2001**
 
 ---
 
