@@ -6,34 +6,48 @@ menu: "main"
 weight: 50
 ---
 
-*Network*: irc.swiftirc.net
-=================
+# _Network:_ irc.swiftirc.net
 
-[Chat in your browser](https://qwebirc.swiftirc.net/?channels=%23swiftirc,%23bullshit,%23leghump "Chat within your browser")
+[Chat in your browser](https://qwebirc.swiftirc.net/?channels=%23swiftirc,%23bullshit "Chat within your browser")
 
-*Servers*:
-----------
+## _Servers:_
 
 _fiery.swiftirc.net_ in California, USA
 
-**fiery.swiftirc.net** has address 143.198.146.114
+**fiery.swiftirc.net** resolves to address 143.198.146.114
 
-**fiery.swiftirc.net** has IPv6 address 2604:a880:4:1d0::75:0
+**fiery.swiftirc.net** resolves to IPv6 address 2604:a880:4:1d0::75:0
 
-* * * * * *
+---
 
 _tardis.swiftirc.net_ in London, UK
 
-**tardis.swiftirc.net** has address 159.65.55.232
+**tardis.swiftirc.net** resolves to address 159.65.55.232
 
-**tardis.swiftirc.net** has IPv6 address 2a03:b0c0:1:d0::ec0:8001
+**tardis.swiftirc.net** resolves to IPv6 address 2a03:b0c0:1:d0::ec0:8001
 
-* * * * * *
+---
 
-*Ports*:
+_Ports:_
 
-* 4443 (TLS Websockets)
-* 6666-6669
-* 6697 (TLS)
-* 7000
-* 8080
+- 4443 (TLS Websockets)
+- 6666-6669
+- 6697 (TLS)
+- 7000
+- 8080
+
+---
+
+## _Matrix:_
+
+- matrix.swiftirc.net
+
+Need a Matrix client? [element.swiftirc.net](https://element.swiftirc.net)
+
+Both matrix and element resolve to 134.122.126.234 / 2604:a880:400:d0::173b:2001
+
+---
+
+## _Discord:_
+
+Invite: https://discord.gg/swiftirc
