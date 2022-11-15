@@ -11,3 +11,8 @@ googleAnalytics = "UA-137040075-3"
     name = "home"
     url = "/"
     weight = -110
+
+[params]
+  email = "support@swiftirc.net"
+  github = "SwiftIRC"
+  twitter = "@SwiftIRC"
