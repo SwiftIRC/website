@@ -8,7 +8,7 @@ weight: 50
 
 # _Network:_ irc.swiftirc.net
 
-[Chat in your browser](https://qwebirc.swiftirc.net/?channels=%23swiftirc,%23bullshit "Chat within your browser")
+[Chat within your browser](https://chat.swiftirc.net/?perform=/server+-j+%23swiftirc,%23bullshit+wss://fiery.swiftirc.net:4443 "Chat within your browser")
 
 ## _Servers:_
 
