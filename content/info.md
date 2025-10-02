@@ -38,16 +38,6 @@ _Ports:_
 
 ---
 
-## _Matrix:_
-
-- **matrix.swiftirc.net**
-
-Need a Matrix client? [element.swiftirc.net](https://element.swiftirc.net)
-
-Both **matrix** and **element** resolve to **134.122.126.234** / **2604:a880:400:d0::173b:2001**
-
----
-
 ## _Discord:_
 
 Invite: https://discord.gg/swiftirc

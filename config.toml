@@ -2,7 +2,6 @@ baseURL = "https://swiftirc.net/"
 languageCode = "en-us"
 title = "SwiftIRC"
 theme = "hugo-nuo"
-googleAnalytics = "UA-137040075-3"
 
 [menu]
 
@@ -15,4 +14,3 @@ googleAnalytics = "UA-137040075-3"
 [params]
   email = "support@swiftirc.net"
   github = "SwiftIRC"
-  twitter = "@SwiftIRC"
